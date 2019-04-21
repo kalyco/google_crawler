@@ -13,5 +13,5 @@ My use case for it was for getting a collection of custom images to build a neur
 Python 3  
 Selenium
 
-Depending on the size, disk space isn't a huge concern, my images directory takes up 2.4mb, for example.
+Depending on the size, disk space isn't a huge concern, my images directory takes up 18.2mb, for example.
 
