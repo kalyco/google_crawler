@@ -15,3 +15,6 @@ Selenium
 
 Depending on the size, disk space isn't a huge concern, my images directory takes up 18.2mb, for example.
 
+### Usage
+
+$ `python image_crawler.py`
